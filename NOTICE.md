@@ -1,0 +1,7 @@
+# Attribution and AI assistance
+
+Original ordered-operation engine and hand-specified semantic outcomes authored for Jake's local learning lab with Codex assistance. Admission, checked CLI/demo, CLI regression patterns and mutation/receipt harnesses adapted from Jake's owned JSON Merge Patch/Pointer labs; those originals are preserved and not imported at runtime. Full fixture outcomes were independently specified before core, without executing the candidate or deriving answers from this engine. No RFC/upstream vectors, code components, algorithms-as-code or ABNF copied into the product.
+
+Private inert research includes python-json-patch BSD3-Clause source/license retained in the prior Merge Patch lab, and python-jsonschema/jsonschema MIT connector-text captures with COPYING retained here. Their licenses apply to those captures; the original product MIT license does not relicense third-party material. Ref/source/hash provenance and bounded inspection limits are in RESEARCH.md and private receipts. No upstream source installed, imported or executed.
+
+One bounded loopback qwen3.5:2b heading draft was reviewed; raw output/error metadata and acceptance review are private. Codex owns contract/security/source judgments, implementation, fixes and ECC self-review. Neither worker use nor self-review is independent assurance. No remote inference, new spending, new repository or publication.

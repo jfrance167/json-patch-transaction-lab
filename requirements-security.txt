@@ -1,0 +1,11 @@
+# Development security scanner only; application has no runtime dependencies.
+# Versions match the locally tested Bandit 1.9.4 environment.
+# Artifact hashes remain unverified: official PyPI TLS requests failed locally.
+bandit==1.9.4
+colorama==0.4.6
+PyYAML==6.0.3
+rich==15.0.0
+stevedore==5.9.1
+markdown-it-py==4.2.0
+mdurl==0.1.2
+Pygments==2.21.0

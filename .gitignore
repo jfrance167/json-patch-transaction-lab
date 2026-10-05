@@ -1,0 +1,18 @@
+.private/
+__pycache__/
+*.pyc
+fresh-report.json
+another-fresh-report.json
+
+# Local review/runtime outputs are never public artifacts.
+.private/
+.drafts/
+.runtime/
+runtime/
+.test-tmp/
+.test-work/
+.verification-work/
+__pycache__/
+*.py[cod]
+.venv/
+graphify-out/

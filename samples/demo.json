@@ -1,0 +1,22 @@
+{
+  "schema": "json-patch-lab/1",
+  "target": {
+    "q": 2
+  },
+  "operations": [
+    {
+      "op": "replace",
+      "path": "/q",
+      "value": 3
+    },
+    {
+      "op": "test",
+      "path": "/q",
+      "value": 2
+    },
+    {
+      "op": "remove",
+      "path": "/q"
+    }
+  ]
+}
